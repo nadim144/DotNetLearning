@@ -1,0 +1,14 @@
+D:\DotNetLearning\Verbatim-Litral\bin\Release\netcoreapp3.1\Verbatim-Litral.exe
+D:\DotNetLearning\Verbatim-Litral\bin\Release\netcoreapp3.1\Verbatim-Litral.deps.json
+D:\DotNetLearning\Verbatim-Litral\bin\Release\netcoreapp3.1\Verbatim-Litral.runtimeconfig.json
+D:\DotNetLearning\Verbatim-Litral\bin\Release\netcoreapp3.1\Verbatim-Litral.runtimeconfig.dev.json
+D:\DotNetLearning\Verbatim-Litral\bin\Release\netcoreapp3.1\Verbatim-Litral.dll
+D:\DotNetLearning\Verbatim-Litral\bin\Release\netcoreapp3.1\Verbatim-Litral.pdb
+D:\DotNetLearning\Verbatim-Litral\obj\Release\netcoreapp3.1\Verbatim-Litral.csproj.AssemblyReference.cache
+D:\DotNetLearning\Verbatim-Litral\obj\Release\netcoreapp3.1\Verbatim-Litral.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetLearning\Verbatim-Litral\obj\Release\netcoreapp3.1\Verbatim-Litral.AssemblyInfoInputs.cache
+D:\DotNetLearning\Verbatim-Litral\obj\Release\netcoreapp3.1\Verbatim-Litral.AssemblyInfo.cs
+D:\DotNetLearning\Verbatim-Litral\obj\Release\netcoreapp3.1\Verbatim-Litral.csproj.CoreCompileInputs.cache
+D:\DotNetLearning\Verbatim-Litral\obj\Release\netcoreapp3.1\Verbatim-Litral.dll
+D:\DotNetLearning\Verbatim-Litral\obj\Release\netcoreapp3.1\Verbatim-Litral.pdb
+D:\DotNetLearning\Verbatim-Litral\obj\Release\netcoreapp3.1\Verbatim-Litral.genruntimeconfig.cache

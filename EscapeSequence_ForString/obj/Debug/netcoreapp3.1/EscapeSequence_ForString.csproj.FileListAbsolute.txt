@@ -1,0 +1,14 @@
+D:\DotNetLearning\EscapeSequence_ForString\bin\Debug\netcoreapp3.1\EscapeSequence_ForString.exe
+D:\DotNetLearning\EscapeSequence_ForString\bin\Debug\netcoreapp3.1\EscapeSequence_ForString.deps.json
+D:\DotNetLearning\EscapeSequence_ForString\bin\Debug\netcoreapp3.1\EscapeSequence_ForString.runtimeconfig.json
+D:\DotNetLearning\EscapeSequence_ForString\bin\Debug\netcoreapp3.1\EscapeSequence_ForString.runtimeconfig.dev.json
+D:\DotNetLearning\EscapeSequence_ForString\bin\Debug\netcoreapp3.1\EscapeSequence_ForString.dll
+D:\DotNetLearning\EscapeSequence_ForString\bin\Debug\netcoreapp3.1\EscapeSequence_ForString.pdb
+D:\DotNetLearning\EscapeSequence_ForString\obj\Debug\netcoreapp3.1\EscapeSequence_ForString.csproj.AssemblyReference.cache
+D:\DotNetLearning\EscapeSequence_ForString\obj\Debug\netcoreapp3.1\EscapeSequence_ForString.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetLearning\EscapeSequence_ForString\obj\Debug\netcoreapp3.1\EscapeSequence_ForString.AssemblyInfoInputs.cache
+D:\DotNetLearning\EscapeSequence_ForString\obj\Debug\netcoreapp3.1\EscapeSequence_ForString.AssemblyInfo.cs
+D:\DotNetLearning\EscapeSequence_ForString\obj\Debug\netcoreapp3.1\EscapeSequence_ForString.csproj.CoreCompileInputs.cache
+D:\DotNetLearning\EscapeSequence_ForString\obj\Debug\netcoreapp3.1\EscapeSequence_ForString.dll
+D:\DotNetLearning\EscapeSequence_ForString\obj\Debug\netcoreapp3.1\EscapeSequence_ForString.pdb
+D:\DotNetLearning\EscapeSequence_ForString\obj\Debug\netcoreapp3.1\EscapeSequence_ForString.genruntimeconfig.cache

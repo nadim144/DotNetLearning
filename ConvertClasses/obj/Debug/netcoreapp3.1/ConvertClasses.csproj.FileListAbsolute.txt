@@ -1,0 +1,13 @@
+D:\DotNetLearning\ConvertClasses\bin\Debug\netcoreapp3.1\ConvertClasses.exe
+D:\DotNetLearning\ConvertClasses\bin\Debug\netcoreapp3.1\ConvertClasses.deps.json
+D:\DotNetLearning\ConvertClasses\bin\Debug\netcoreapp3.1\ConvertClasses.runtimeconfig.json
+D:\DotNetLearning\ConvertClasses\bin\Debug\netcoreapp3.1\ConvertClasses.runtimeconfig.dev.json
+D:\DotNetLearning\ConvertClasses\bin\Debug\netcoreapp3.1\ConvertClasses.dll
+D:\DotNetLearning\ConvertClasses\bin\Debug\netcoreapp3.1\ConvertClasses.pdb
+D:\DotNetLearning\ConvertClasses\obj\Debug\netcoreapp3.1\ConvertClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetLearning\ConvertClasses\obj\Debug\netcoreapp3.1\ConvertClasses.AssemblyInfoInputs.cache
+D:\DotNetLearning\ConvertClasses\obj\Debug\netcoreapp3.1\ConvertClasses.AssemblyInfo.cs
+D:\DotNetLearning\ConvertClasses\obj\Debug\netcoreapp3.1\ConvertClasses.csproj.CoreCompileInputs.cache
+D:\DotNetLearning\ConvertClasses\obj\Debug\netcoreapp3.1\ConvertClasses.dll
+D:\DotNetLearning\ConvertClasses\obj\Debug\netcoreapp3.1\ConvertClasses.pdb
+D:\DotNetLearning\ConvertClasses\obj\Debug\netcoreapp3.1\ConvertClasses.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\DotNetLearning\ImpliciteExpliciteConversation\bin\Release\netcoreapp3.1\ImpliciteExpliciteConversation.exe
+D:\DotNetLearning\ImpliciteExpliciteConversation\bin\Release\netcoreapp3.1\ImpliciteExpliciteConversation.deps.json
+D:\DotNetLearning\ImpliciteExpliciteConversation\bin\Release\netcoreapp3.1\ImpliciteExpliciteConversation.runtimeconfig.json
+D:\DotNetLearning\ImpliciteExpliciteConversation\bin\Release\netcoreapp3.1\ImpliciteExpliciteConversation.runtimeconfig.dev.json
+D:\DotNetLearning\ImpliciteExpliciteConversation\bin\Release\netcoreapp3.1\ImpliciteExpliciteConversation.dll
+D:\DotNetLearning\ImpliciteExpliciteConversation\bin\Release\netcoreapp3.1\ImpliciteExpliciteConversation.pdb
+D:\DotNetLearning\ImpliciteExpliciteConversation\obj\Release\netcoreapp3.1\ImpliciteExpliciteConversation.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetLearning\ImpliciteExpliciteConversation\obj\Release\netcoreapp3.1\ImpliciteExpliciteConversation.AssemblyInfoInputs.cache
+D:\DotNetLearning\ImpliciteExpliciteConversation\obj\Release\netcoreapp3.1\ImpliciteExpliciteConversation.AssemblyInfo.cs
+D:\DotNetLearning\ImpliciteExpliciteConversation\obj\Release\netcoreapp3.1\ImpliciteExpliciteConversation.csproj.CoreCompileInputs.cache
+D:\DotNetLearning\ImpliciteExpliciteConversation\obj\Release\netcoreapp3.1\ImpliciteExpliciteConversation.dll
+D:\DotNetLearning\ImpliciteExpliciteConversation\obj\Release\netcoreapp3.1\ImpliciteExpliciteConversation.pdb
+D:\DotNetLearning\ImpliciteExpliciteConversation\obj\Release\netcoreapp3.1\ImpliciteExpliciteConversation.genruntimeconfig.cache

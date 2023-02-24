@@ -1,0 +1,14 @@
+D:\DotNetLearning\CSharp\StringConcatPlaceHolder\obj\Debug\netcoreapp3.1\StringConcatPlaceHolder.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetLearning\CSharp\StringConcatPlaceHolder\obj\Debug\netcoreapp3.1\StringConcatPlaceHolder.AssemblyInfoInputs.cache
+D:\DotNetLearning\CSharp\StringConcatPlaceHolder\obj\Debug\netcoreapp3.1\StringConcatPlaceHolder.AssemblyInfo.cs
+D:\DotNetLearning\CSharp\StringConcatPlaceHolder\obj\Debug\netcoreapp3.1\StringConcatPlaceHolder.csproj.CoreCompileInputs.cache
+D:\DotNetLearning\CSharp\StringConcatPlaceHolder\bin\Debug\netcoreapp3.1\StringConcatPlaceHolder.exe
+D:\DotNetLearning\CSharp\StringConcatPlaceHolder\bin\Debug\netcoreapp3.1\StringConcatPlaceHolder.deps.json
+D:\DotNetLearning\CSharp\StringConcatPlaceHolder\bin\Debug\netcoreapp3.1\StringConcatPlaceHolder.runtimeconfig.json
+D:\DotNetLearning\CSharp\StringConcatPlaceHolder\bin\Debug\netcoreapp3.1\StringConcatPlaceHolder.runtimeconfig.dev.json
+D:\DotNetLearning\CSharp\StringConcatPlaceHolder\bin\Debug\netcoreapp3.1\StringConcatPlaceHolder.dll
+D:\DotNetLearning\CSharp\StringConcatPlaceHolder\bin\Debug\netcoreapp3.1\StringConcatPlaceHolder.pdb
+D:\DotNetLearning\CSharp\StringConcatPlaceHolder\obj\Debug\netcoreapp3.1\StringConcatPlaceHolder.csproj.AssemblyReference.cache
+D:\DotNetLearning\CSharp\StringConcatPlaceHolder\obj\Debug\netcoreapp3.1\StringConcatPlaceHolder.dll
+D:\DotNetLearning\CSharp\StringConcatPlaceHolder\obj\Debug\netcoreapp3.1\StringConcatPlaceHolder.pdb
+D:\DotNetLearning\CSharp\StringConcatPlaceHolder\obj\Debug\netcoreapp3.1\StringConcatPlaceHolder.genruntimeconfig.cache

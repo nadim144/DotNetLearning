@@ -1,0 +1,14 @@
+D:\DotNetLearning\FNameLNamePlaceHolder\bin\Debug\netcoreapp3.1\FNameLNamePlaceHolder.exe
+D:\DotNetLearning\FNameLNamePlaceHolder\bin\Debug\netcoreapp3.1\FNameLNamePlaceHolder.deps.json
+D:\DotNetLearning\FNameLNamePlaceHolder\bin\Debug\netcoreapp3.1\FNameLNamePlaceHolder.runtimeconfig.json
+D:\DotNetLearning\FNameLNamePlaceHolder\bin\Debug\netcoreapp3.1\FNameLNamePlaceHolder.runtimeconfig.dev.json
+D:\DotNetLearning\FNameLNamePlaceHolder\bin\Debug\netcoreapp3.1\FNameLNamePlaceHolder.dll
+D:\DotNetLearning\FNameLNamePlaceHolder\bin\Debug\netcoreapp3.1\FNameLNamePlaceHolder.pdb
+D:\DotNetLearning\FNameLNamePlaceHolder\obj\Debug\netcoreapp3.1\FNameLNamePlaceHolder.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetLearning\FNameLNamePlaceHolder\obj\Debug\netcoreapp3.1\FNameLNamePlaceHolder.AssemblyInfoInputs.cache
+D:\DotNetLearning\FNameLNamePlaceHolder\obj\Debug\netcoreapp3.1\FNameLNamePlaceHolder.AssemblyInfo.cs
+D:\DotNetLearning\FNameLNamePlaceHolder\obj\Debug\netcoreapp3.1\FNameLNamePlaceHolder.csproj.CoreCompileInputs.cache
+D:\DotNetLearning\FNameLNamePlaceHolder\obj\Debug\netcoreapp3.1\FNameLNamePlaceHolder.dll
+D:\DotNetLearning\FNameLNamePlaceHolder\obj\Debug\netcoreapp3.1\FNameLNamePlaceHolder.pdb
+D:\DotNetLearning\FNameLNamePlaceHolder\obj\Debug\netcoreapp3.1\FNameLNamePlaceHolder.genruntimeconfig.cache
+D:\DotNetLearning\FNameLNamePlaceHolder\obj\Debug\netcoreapp3.1\FNameLNamePlaceHolder.csproj.AssemblyReference.cache
