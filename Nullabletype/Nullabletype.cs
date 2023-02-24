@@ -8,7 +8,7 @@ namespace Nullabletype
         {
             string FName = "";
             string LName = "";
-            bool? Major;
+            bool? Major =;
 
             Console.WriteLine("Enter your first Name:");
             FName = Console.ReadLine();
