@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Polymorphism_Override_method
 {
-    class Program
+    class PartTimeEmployee:Employee
     {
-        public static void Main()
+        public override void printFullName()
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("PartTimeEmployee Drived class printFullName()");
         }
     }
 }

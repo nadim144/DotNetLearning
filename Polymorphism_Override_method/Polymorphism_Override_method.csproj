@@ -45,8 +45,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Polymorphism_Override_method.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="FullTimeEmployee.cs" />
+    <Compile Include="Main.cs" />
+    <Compile Include="PartTimeEmployee.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TemporaryEmployee.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
