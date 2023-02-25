@@ -25,6 +25,7 @@ namespace Employee_namespace
         }
         public void printEmployeeDetails()
         {
+            Console.WriteLine("Employee base class - printEmployeeDetails()");
             Console.WriteLine("First Name: {0} Last Name: {1} and Email: {2}", firstName, lastName, email);
         }
     }

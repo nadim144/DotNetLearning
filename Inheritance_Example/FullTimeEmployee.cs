@@ -15,8 +15,9 @@ namespace FullTimeEmployee_namespace
             this.salary = s;
         }
 
-        public  void printEmployeeDetails()
+        public void printEmployeeDetails()
         {
+            Console.WriteLine("FullTimeEmployee base class - printEmployeeDetails()");
             Console.WriteLine("First Name: {0} Last Name: {1} Email: {2} and salary: {3}", firstName, lastName, email, salary);
         }
     }

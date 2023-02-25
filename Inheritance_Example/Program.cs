@@ -13,8 +13,8 @@ namespace Inheritance_Example
     {
         static void Main(string[] args)
         {
-            FullTimeEmployee fte = new FullTimeEmployee("Nadim", "Ahmad", "ahmad@gmail.com", 3300000.45f);
-            fte.printEmployeeDetails();
+            //FullTimeEmployee fte = new FullTimeEmployee("Nadim", "Ahmad", "ahmad@gmail.com", 3300000.45f);
+            //fte.printEmployeeDetails();
 
             Employee e = new PartTimeEmployee("XYZ", "PQR", "ABC@gmail.com", 8);
             e.printEmployeeDetails();
