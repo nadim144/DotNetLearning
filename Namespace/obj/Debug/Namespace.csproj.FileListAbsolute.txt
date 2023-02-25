@@ -1,0 +1,7 @@
+D:\Learning_repo's\DotNetLearning\Namespace\bin\Debug\Namespace.exe.config
+D:\Learning_repo's\DotNetLearning\Namespace\bin\Debug\Namespace.exe
+D:\Learning_repo's\DotNetLearning\Namespace\bin\Debug\Namespace.pdb
+D:\Learning_repo's\DotNetLearning\Namespace\obj\Debug\Namespace.csproj.AssemblyReference.cache
+D:\Learning_repo's\DotNetLearning\Namespace\obj\Debug\Namespace.csproj.CoreCompileInputs.cache
+D:\Learning_repo's\DotNetLearning\Namespace\obj\Debug\Namespace.exe
+D:\Learning_repo's\DotNetLearning\Namespace\obj\Debug\Namespace.pdb

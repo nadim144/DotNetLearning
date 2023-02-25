@@ -1,0 +1,6 @@
+D:\Learning_repo's\DotNetLearning\Interface-6\bin\Debug\Interface-6.exe.config
+D:\Learning_repo's\DotNetLearning\Interface-6\bin\Debug\Interface-6.exe
+D:\Learning_repo's\DotNetLearning\Interface-6\bin\Debug\Interface-6.pdb
+D:\Learning_repo's\DotNetLearning\Interface-6\obj\Debug\Interface-6.csproj.CoreCompileInputs.cache
+D:\Learning_repo's\DotNetLearning\Interface-6\obj\Debug\Interface-6.exe
+D:\Learning_repo's\DotNetLearning\Interface-6\obj\Debug\Interface-6.pdb

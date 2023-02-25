@@ -11,3 +11,17 @@ D:\DotNetLearning\ConvertClasses\obj\Debug\netcoreapp3.1\ConvertClasses.csproj.C
 D:\DotNetLearning\ConvertClasses\obj\Debug\netcoreapp3.1\ConvertClasses.dll
 D:\DotNetLearning\ConvertClasses\obj\Debug\netcoreapp3.1\ConvertClasses.pdb
 D:\DotNetLearning\ConvertClasses\obj\Debug\netcoreapp3.1\ConvertClasses.genruntimeconfig.cache
+D:\Learning_repo's\DotNetLearning\ConvertClasses\bin\Debug\netcoreapp3.1\ConvertClasses.exe
+D:\Learning_repo's\DotNetLearning\ConvertClasses\bin\Debug\netcoreapp3.1\ConvertClasses.deps.json
+D:\Learning_repo's\DotNetLearning\ConvertClasses\bin\Debug\netcoreapp3.1\ConvertClasses.runtimeconfig.json
+D:\Learning_repo's\DotNetLearning\ConvertClasses\bin\Debug\netcoreapp3.1\ConvertClasses.runtimeconfig.dev.json
+D:\Learning_repo's\DotNetLearning\ConvertClasses\bin\Debug\netcoreapp3.1\ConvertClasses.dll
+D:\Learning_repo's\DotNetLearning\ConvertClasses\bin\Debug\netcoreapp3.1\ConvertClasses.pdb
+D:\Learning_repo's\DotNetLearning\ConvertClasses\obj\Debug\netcoreapp3.1\ConvertClasses.csproj.AssemblyReference.cache
+D:\Learning_repo's\DotNetLearning\ConvertClasses\obj\Debug\netcoreapp3.1\ConvertClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning_repo's\DotNetLearning\ConvertClasses\obj\Debug\netcoreapp3.1\ConvertClasses.AssemblyInfoInputs.cache
+D:\Learning_repo's\DotNetLearning\ConvertClasses\obj\Debug\netcoreapp3.1\ConvertClasses.AssemblyInfo.cs
+D:\Learning_repo's\DotNetLearning\ConvertClasses\obj\Debug\netcoreapp3.1\ConvertClasses.csproj.CoreCompileInputs.cache
+D:\Learning_repo's\DotNetLearning\ConvertClasses\obj\Debug\netcoreapp3.1\ConvertClasses.dll
+D:\Learning_repo's\DotNetLearning\ConvertClasses\obj\Debug\netcoreapp3.1\ConvertClasses.pdb
+D:\Learning_repo's\DotNetLearning\ConvertClasses\obj\Debug\netcoreapp3.1\ConvertClasses.genruntimeconfig.cache

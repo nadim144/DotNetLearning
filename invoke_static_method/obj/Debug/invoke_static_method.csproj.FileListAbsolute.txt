@@ -1,0 +1,7 @@
+D:\Learning_repo's\DotNetLearning\invoke_static_method\bin\Debug\invoke_static_method.exe.config
+D:\Learning_repo's\DotNetLearning\invoke_static_method\bin\Debug\invoke_static_method.exe
+D:\Learning_repo's\DotNetLearning\invoke_static_method\bin\Debug\invoke_static_method.pdb
+D:\Learning_repo's\DotNetLearning\invoke_static_method\obj\Debug\invoke_static_method.csproj.AssemblyReference.cache
+D:\Learning_repo's\DotNetLearning\invoke_static_method\obj\Debug\invoke_static_method.csproj.CoreCompileInputs.cache
+D:\Learning_repo's\DotNetLearning\invoke_static_method\obj\Debug\invoke_static_method.exe
+D:\Learning_repo's\DotNetLearning\invoke_static_method\obj\Debug\invoke_static_method.pdb
