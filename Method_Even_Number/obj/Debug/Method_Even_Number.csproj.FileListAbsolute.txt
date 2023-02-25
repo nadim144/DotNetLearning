@@ -1,0 +1,7 @@
+D:\Learning_repo's\DotNetLearning\Method_Even_Number\bin\Debug\Method_Even_Number.exe.config
+D:\Learning_repo's\DotNetLearning\Method_Even_Number\bin\Debug\Method_Even_Number.exe
+D:\Learning_repo's\DotNetLearning\Method_Even_Number\bin\Debug\Method_Even_Number.pdb
+D:\Learning_repo's\DotNetLearning\Method_Even_Number\obj\Debug\Method_Even_Number.csproj.AssemblyReference.cache
+D:\Learning_repo's\DotNetLearning\Method_Even_Number\obj\Debug\Method_Even_Number.csproj.CoreCompileInputs.cache
+D:\Learning_repo's\DotNetLearning\Method_Even_Number\obj\Debug\Method_Even_Number.exe
+D:\Learning_repo's\DotNetLearning\Method_Even_Number\obj\Debug\Method_Even_Number.pdb

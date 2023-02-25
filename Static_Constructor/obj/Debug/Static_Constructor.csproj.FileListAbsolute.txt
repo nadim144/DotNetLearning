@@ -1,0 +1,6 @@
+D:\Learning_repo's\DotNetLearning\Static_Constructor\bin\Debug\Static_Constructor.exe.config
+D:\Learning_repo's\DotNetLearning\Static_Constructor\bin\Debug\Static_Constructor.exe
+D:\Learning_repo's\DotNetLearning\Static_Constructor\bin\Debug\Static_Constructor.pdb
+D:\Learning_repo's\DotNetLearning\Static_Constructor\obj\Debug\Static_Constructor.csproj.CoreCompileInputs.cache
+D:\Learning_repo's\DotNetLearning\Static_Constructor\obj\Debug\Static_Constructor.exe
+D:\Learning_repo's\DotNetLearning\Static_Constructor\obj\Debug\Static_Constructor.pdb

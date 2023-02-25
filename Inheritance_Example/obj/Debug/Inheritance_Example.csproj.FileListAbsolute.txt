@@ -1,0 +1,7 @@
+D:\Learning_repo's\DotNetLearning\Inheritance_Example\bin\Debug\Inheritance_Example.exe.config
+D:\Learning_repo's\DotNetLearning\Inheritance_Example\bin\Debug\Inheritance_Example.exe
+D:\Learning_repo's\DotNetLearning\Inheritance_Example\bin\Debug\Inheritance_Example.pdb
+D:\Learning_repo's\DotNetLearning\Inheritance_Example\obj\Debug\Inheritance_Example.csproj.AssemblyReference.cache
+D:\Learning_repo's\DotNetLearning\Inheritance_Example\obj\Debug\Inheritance_Example.csproj.CoreCompileInputs.cache
+D:\Learning_repo's\DotNetLearning\Inheritance_Example\obj\Debug\Inheritance_Example.exe
+D:\Learning_repo's\DotNetLearning\Inheritance_Example\obj\Debug\Inheritance_Example.pdb

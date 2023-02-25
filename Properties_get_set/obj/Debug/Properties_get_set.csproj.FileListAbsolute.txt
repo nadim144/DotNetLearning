@@ -1,0 +1,6 @@
+D:\Learning_repo's\DotNetLearning\Properties_get_set\bin\Debug\Properties_get_set.exe.config
+D:\Learning_repo's\DotNetLearning\Properties_get_set\bin\Debug\Properties_get_set.exe
+D:\Learning_repo's\DotNetLearning\Properties_get_set\bin\Debug\Properties_get_set.pdb
+D:\Learning_repo's\DotNetLearning\Properties_get_set\obj\Debug\Properties_get_set.csproj.CoreCompileInputs.cache
+D:\Learning_repo's\DotNetLearning\Properties_get_set\obj\Debug\Properties_get_set.exe
+D:\Learning_repo's\DotNetLearning\Properties_get_set\obj\Debug\Properties_get_set.pdb

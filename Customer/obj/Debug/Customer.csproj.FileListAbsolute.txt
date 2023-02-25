@@ -1,0 +1,7 @@
+D:\Learning_repo's\DotNetLearning\Customer\bin\Debug\Customer.exe.config
+D:\Learning_repo's\DotNetLearning\Customer\bin\Debug\Customer.exe
+D:\Learning_repo's\DotNetLearning\Customer\bin\Debug\Customer.pdb
+D:\Learning_repo's\DotNetLearning\Customer\obj\Debug\Customer.csproj.AssemblyReference.cache
+D:\Learning_repo's\DotNetLearning\Customer\obj\Debug\Customer.csproj.CoreCompileInputs.cache
+D:\Learning_repo's\DotNetLearning\Customer\obj\Debug\Customer.exe
+D:\Learning_repo's\DotNetLearning\Customer\obj\Debug\Customer.pdb

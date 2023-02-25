@@ -11,3 +11,17 @@ D:\DotNetLearning\ParseAndTryParse\obj\Debug\netcoreapp3.1\ParseAndTryParse.cspr
 D:\DotNetLearning\ParseAndTryParse\obj\Debug\netcoreapp3.1\ParseAndTryParse.dll
 D:\DotNetLearning\ParseAndTryParse\obj\Debug\netcoreapp3.1\ParseAndTryParse.pdb
 D:\DotNetLearning\ParseAndTryParse\obj\Debug\netcoreapp3.1\ParseAndTryParse.genruntimeconfig.cache
+D:\Learning_repo's\DotNetLearning\ParseAndTryParse\bin\Debug\netcoreapp3.1\ParseAndTryParse.exe
+D:\Learning_repo's\DotNetLearning\ParseAndTryParse\bin\Debug\netcoreapp3.1\ParseAndTryParse.deps.json
+D:\Learning_repo's\DotNetLearning\ParseAndTryParse\bin\Debug\netcoreapp3.1\ParseAndTryParse.runtimeconfig.json
+D:\Learning_repo's\DotNetLearning\ParseAndTryParse\bin\Debug\netcoreapp3.1\ParseAndTryParse.runtimeconfig.dev.json
+D:\Learning_repo's\DotNetLearning\ParseAndTryParse\bin\Debug\netcoreapp3.1\ParseAndTryParse.dll
+D:\Learning_repo's\DotNetLearning\ParseAndTryParse\bin\Debug\netcoreapp3.1\ParseAndTryParse.pdb
+D:\Learning_repo's\DotNetLearning\ParseAndTryParse\obj\Debug\netcoreapp3.1\ParseAndTryParse.csproj.AssemblyReference.cache
+D:\Learning_repo's\DotNetLearning\ParseAndTryParse\obj\Debug\netcoreapp3.1\ParseAndTryParse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning_repo's\DotNetLearning\ParseAndTryParse\obj\Debug\netcoreapp3.1\ParseAndTryParse.AssemblyInfoInputs.cache
+D:\Learning_repo's\DotNetLearning\ParseAndTryParse\obj\Debug\netcoreapp3.1\ParseAndTryParse.AssemblyInfo.cs
+D:\Learning_repo's\DotNetLearning\ParseAndTryParse\obj\Debug\netcoreapp3.1\ParseAndTryParse.csproj.CoreCompileInputs.cache
+D:\Learning_repo's\DotNetLearning\ParseAndTryParse\obj\Debug\netcoreapp3.1\ParseAndTryParse.dll
+D:\Learning_repo's\DotNetLearning\ParseAndTryParse\obj\Debug\netcoreapp3.1\ParseAndTryParse.pdb
+D:\Learning_repo's\DotNetLearning\ParseAndTryParse\obj\Debug\netcoreapp3.1\ParseAndTryParse.genruntimeconfig.cache

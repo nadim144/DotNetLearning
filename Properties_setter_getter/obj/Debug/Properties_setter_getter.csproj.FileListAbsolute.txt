@@ -1,0 +1,7 @@
+D:\Learning_repo's\DotNetLearning\Properties_setter_getter\bin\Debug\Properties_setter_getter.exe.config
+D:\Learning_repo's\DotNetLearning\Properties_setter_getter\bin\Debug\Properties_setter_getter.exe
+D:\Learning_repo's\DotNetLearning\Properties_setter_getter\bin\Debug\Properties_setter_getter.pdb
+D:\Learning_repo's\DotNetLearning\Properties_setter_getter\obj\Debug\Properties_setter_getter.csproj.AssemblyReference.cache
+D:\Learning_repo's\DotNetLearning\Properties_setter_getter\obj\Debug\Properties_setter_getter.csproj.CoreCompileInputs.cache
+D:\Learning_repo's\DotNetLearning\Properties_setter_getter\obj\Debug\Properties_setter_getter.exe
+D:\Learning_repo's\DotNetLearning\Properties_setter_getter\obj\Debug\Properties_setter_getter.pdb
