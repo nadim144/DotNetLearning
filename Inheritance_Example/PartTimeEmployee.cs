@@ -15,7 +15,7 @@ namespace PartTimeEmployee_namespace
             this.hourlyCharge = charge;
         }
 
-        public  void printEmployeeDetails()
+        public new void printEmployeeDetails()
         {
             Console.WriteLine("PartTimeEmployee base class - printEmployeeDetails()");
             Console.WriteLine("First Name: {0} Last Name: {1} Email: {2} and Hourly charege: {3}", firstName, lastName, email, hourlyCharge);
