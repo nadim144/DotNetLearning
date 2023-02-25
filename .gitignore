@@ -4,8 +4,10 @@
 
 *.cache
 /Customer/obj/Debug
-/Inheritance_Example/bin/Debug
 /Inheritance_Example/obj/Debug
+/Inheritance_Example/obj/Release
+/Inheritance_Example/bin/Debug
+/Inheritance_Example/bin/Release
 /invoke_static_method/bin/Debug
 /invoke_static_method/obj/Debug
 /Method_Even_Number/bin/Debug
@@ -15,3 +17,22 @@
 /Static_Constructor/bin/Debug
 /Static_Constructor/obj/Debug
 /Customer/bin/Debug
+/invoke_static_method/bin/Release
+/Method_Even_Number/bin/Release
+/Method_Even_Number/obj/Release
+/Namespace/obj/Release
+/ParseAndTryParse/obj/Release/netcoreapp3.1
+/ParseAndTryParse/bin/Release/netcoreapp3.1
+/Polymorphism_Override_method/bin/Release
+/Polymorphism_Override_method/obj/Release
+/Polymorphism_Override_method/Properties/AssemblyInfo.cs
+/Static_Constructor/obj/Release
+/StringConcatPlaceHolder/bin/Debug/netcoreapp3.1
+/StringConcatPlaceHolder/bin/Release/netcoreapp3.1
+/StringConcatPlaceHolder/obj/Debug
+/StringConcatPlaceHolder/obj/Release/netcoreapp3.1
+/StringConcatPlaceHolder/obj/StringConcatPlaceHolder.csproj.nuget.g.targets
+/StringConcatPlaceHolder/obj/StringConcatPlaceHolder.csproj.nuget.g.props
+/StringConcatPlaceHolder/obj/StringConcatPlaceHolder.csproj.nuget.dgspec.json
+/StringConcatPlaceHolder/obj/project.assets.json
+/Namespace/bin/Release/Namespace.exe.config
