@@ -12,3 +12,17 @@ D:\DotNetLearning\Nullabletype\obj\Debug\netcoreapp3.1\Nullabletype.csproj.CoreC
 D:\DotNetLearning\Nullabletype\obj\Debug\netcoreapp3.1\Nullabletype.dll
 D:\DotNetLearning\Nullabletype\obj\Debug\netcoreapp3.1\Nullabletype.pdb
 D:\DotNetLearning\Nullabletype\obj\Debug\netcoreapp3.1\Nullabletype.genruntimeconfig.cache
+D:\Learning_repo's\DotNetLearning\Nullabletype\bin\Debug\netcoreapp3.1\Nullabletype.exe
+D:\Learning_repo's\DotNetLearning\Nullabletype\bin\Debug\netcoreapp3.1\Nullabletype.deps.json
+D:\Learning_repo's\DotNetLearning\Nullabletype\bin\Debug\netcoreapp3.1\Nullabletype.runtimeconfig.json
+D:\Learning_repo's\DotNetLearning\Nullabletype\bin\Debug\netcoreapp3.1\Nullabletype.runtimeconfig.dev.json
+D:\Learning_repo's\DotNetLearning\Nullabletype\bin\Debug\netcoreapp3.1\Nullabletype.dll
+D:\Learning_repo's\DotNetLearning\Nullabletype\bin\Debug\netcoreapp3.1\Nullabletype.pdb
+D:\Learning_repo's\DotNetLearning\Nullabletype\obj\Debug\netcoreapp3.1\Nullabletype.csproj.AssemblyReference.cache
+D:\Learning_repo's\DotNetLearning\Nullabletype\obj\Debug\netcoreapp3.1\Nullabletype.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning_repo's\DotNetLearning\Nullabletype\obj\Debug\netcoreapp3.1\Nullabletype.AssemblyInfoInputs.cache
+D:\Learning_repo's\DotNetLearning\Nullabletype\obj\Debug\netcoreapp3.1\Nullabletype.AssemblyInfo.cs
+D:\Learning_repo's\DotNetLearning\Nullabletype\obj\Debug\netcoreapp3.1\Nullabletype.csproj.CoreCompileInputs.cache
+D:\Learning_repo's\DotNetLearning\Nullabletype\obj\Debug\netcoreapp3.1\Nullabletype.dll
+D:\Learning_repo's\DotNetLearning\Nullabletype\obj\Debug\netcoreapp3.1\Nullabletype.pdb
+D:\Learning_repo's\DotNetLearning\Nullabletype\obj\Debug\netcoreapp3.1\Nullabletype.genruntimeconfig.cache
