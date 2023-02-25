@@ -3,3 +3,14 @@
 ################################################################################
 
 *.cache
+/Customer/obj/Debug
+/Inheritance_Example/bin/Debug
+/Inheritance_Example/obj/Debug
+/invoke_static_method/bin/Debug
+/invoke_static_method/obj/Debug
+/Method_Even_Number/bin/Debug
+/Method_Even_Number/obj/Debug
+/Namespace/bin/Debug
+/Namespace/obj/Debug
+/Static_Constructor/bin/Debug
+/Static_Constructor/obj/Debug
